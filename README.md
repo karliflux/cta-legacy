@@ -1,8 +1,10 @@
 # cta-community-website
 
-html4/html5 website project
-<p style="color:#AA00AA">took 10 hours to make then upload to gitea :thumbsup:</p>
+<p>small html4/5 website based on the idea of being a cta image database of sorts.</p>
+<p>my first html website, took 4 hours to complete the index.html</p>
 
-# starting
+# running
 
-i dont know how to use apache sry
+<p>the website is confirmed to work on firefox 97 by just double clicking on index.html</p>
+<p>the website uses the ubuntu font family at the moment! this means ubuntu fonts are required for a good experience.</p>
+<p>(im trying to find a suitable universal font be patient)</p>
