@@ -5,6 +5,6 @@
 
 # running
 
-<p>the website is confirmed to work on firefox 97 by just double clicking on index.html</p>
+<p>the website is confirmed to work on firefox 78-97 by just double clicking on index.html or visiting the github pages version</p>
 <p>the website uses the ubuntu font family at the moment! this means ubuntu fonts are required for a good experience.</p>
 <p>(im trying to find a suitable universal font be patient)</p>
