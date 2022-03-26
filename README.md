@@ -11,5 +11,5 @@
 
 # html design guidelines
 
-<p>if you're gonna add something, use plenty of comments, i personally don't care about a fre bytes per addition dedicated to making the website maintainable!</p>
+<p>if you're gonna add something, use plenty of comments, i personally don't care about a few bytes per addition dedicated to making the website maintainable!</p>
 </p>if you're going to add something, make it fit in! late 90's to early 2000's design is highly reccommended! (you CAN use JavaScript, though personally i'd rather it be HTML since i only know css and html.)</p>
