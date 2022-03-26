@@ -2,7 +2,7 @@
 
 <p>small html4/5 website based on the idea of being a cat image database of sorts.</p>
 <p>my first html website, took 4 hours to complete the index.html, thanks w3schools!</p>
-<p>also, the word "cta" doesn't mean anything special, it's just a misspelling of cat that has become popular in the Grapejuice Linux community.</p>
+<p>also, the word "cta" doesn't mean anything special, it's just a misspelling of cat that has become popular in the Grapejuice Linux community. (that one roblox on linux wrapper)</p>
 
 # running
 
