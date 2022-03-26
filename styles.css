@@ -7,23 +7,23 @@ body {
   background-image: url('images/background.png');
 }
 h1 {
-  font-family: ubuntu, sans;
+  font-family: ubuntu, sans-serif;
   color: #FFFFFF
 }
 h2 {
-  font-family: ubuntu, sans;
+  font-family: ubuntu, sans-serif;
   color: #FFFFFF
 }
 h3 {
-  font-family: ubuntu, sans;
+  font-family: ubuntu, sans-serif;
   color: #FFFFFF
 }
 h4 {
-  font-family: ubuntu, sans;
+  font-family: ubuntu, sans-serif;
   color: #FFFFFF
 }
 p {
-  font-family: ubuntu, sans;
+  font-family: ubuntu, sans-serif;
   color: #FFFFFF
 }
 aside {
