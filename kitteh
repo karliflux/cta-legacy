@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<!--header lulz-->
+<head>
+  <div id="nav">
+  <link rel="stylesheet" href="styles.css">
+  <meta charset="utf-8" />
+  <title>kitteh community</title>
+  <link rel="icon" type="image/x-icon" href="images/favicon.gif">
+  <img src="images/cet logo.webp" alt="internet logo" style="width:256px;height:109px;">
+  <h1>Cta Community</h1>
+  <h2>this is the only subpage that doesnt have awful code lol i should clean the others up</h2>
+</head>
+
+<!--navbar-->
+<nav>
+  <a href="index.html">Home</a>
+  <a href="gallery.html">Cta Gallery</a>
+  <a href="media.html">Misc. Media</a>
+  <a href="about.html">About</a>
+</nav>
+
+<!--sidebar thuing-->
+<aside>
+  <h2>woah this is web-ception lol!</h2>
+  <iframe src="kitteh.html" style="overflow:hidden;margin:0;padding:0;width:256px;height:256px;" frameborder="0"></iframe>
+  <h2>I LOVE MOBILE GAMES 榮耀歸於中共！</h2>
+  <p>mm bad piggies</p>
+</aside>
+
+<!--music playa-->
+<!--<audio controls="" loop="" autoplay="" hidden="">
+  <source src="tunes/audio_passport.ogg" type="audio/ogg">
+</audio>-->
+
+<main>
+<!--monthy cet-->
+<section>
+  <h3>kitteh stuff.</h3>
+  <img src="images/cet.gif" alt="cet 2" style="width:128px;height:160px;">
+</section>
+
+<!--article thinghy-->
+<article>
+  <p>this website source cod.</p>
+  <a href="https://github.com/sleepykitteh-4314/sleepykitteh-4314.github.io/">hello website</a>
+  <p>firefox 78 esr easy pkgbuild for arch linux</p>
+  <a href="https://github.com/sleepykitteh-4314/firefox-esr78-bin/">BASED FIRE FOX !!</a>
+  <p>im supposed to be helping this exist but im lazy. lol.</p>
+  <a href="https://github.com/ctaOS/">ctaOS arch linux distro</a>
+</article>
+</main>
+
+<!--footer-->
+<footer>
+<!--creative commons license :D-->
+<img src="images/netscape2.gif">
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="images/CCBYSA.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+  <p>This webpage looks best at 800x600 with 16-Bit color.</p>
+</footer>
+</html>
